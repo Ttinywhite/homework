@@ -1,0 +1,29 @@
+#background{
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    top: 50%;
+    left: 50%;
+    margin-left: -200px;
+    margin-top: -100px;
+    background-color:#ccc;
+
+}
+
+#y1,#y2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: #fc0;
+
+}
+#y1{  
+    border-bottom-right-radius: 50px;
+    top: 0;
+    left: 0;
+}
+#y2{  
+    border-top-left-radius: 50px;
+    bottom: 0;
+    right: 0;
+}

@@ -1,0 +1,149 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+nav{
+    background-color: #333333;
+    height: 60px;
+}
+
+nav ul{
+    float: right;
+    line-height: 60px;
+    margin-right: 5%;
+}
+
+nav li{
+    float: left;
+    margin-left: 50px;
+}
+
+nav li a{
+    color:white;
+    text-decoration: none;
+}
+
+.logo{
+    float: left;
+    margin-left: 5%;
+    width: 120px;
+    margin-top: 10px;
+
+}
+
+body{
+    background-color: #dedede;
+}
+#bg{
+    overflow: hidden;
+}
+
+#bigbox{
+    padding-right: 420px;
+    width: 880px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+.sec5{
+    float: right;
+    width: 320px;
+    padding: 20px;
+    background-color: white;
+    margin: 20px -420px 0px 0px;
+
+}
+#left{
+    float: left;
+}
+
+h2{
+    color: #646b73;
+}
+
+h3{
+    color: #686a77;
+}
+
+p{ 
+    text-indent:40px; font-size: 20px;line-height: 30px;
+}
+
+#left div {
+    background-color: white;
+    margin: 20px 20px 0px 0px;
+    width: 100%;
+    padding: 20px;
+}
+
+
+.sec2 ul{
+    list-style: none;
+}
+
+.sec3{
+    overflow: hidden;
+}
+
+#bg #bigbox #left .sec3 .trum{
+    float: left;
+    border-color:red;
+    padding: 20px;
+    border: 1px solid black;
+    width: 240px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.sec4 table{ 
+    text-align: center;
+}
+
+table thead {
+    background-color: #333333; 
+    color: white;
+}
+
+.last_tr{ 
+    background-color: #cccccc;
+}
+
+
+.sec5 table{
+    margin: 20px auto;
+}
+
+.sec5 .td1{
+    text-align: right;
+    font-size: 10px;
+}
+
+.sec5 .td2{
+   padding-left: 10px;
+   color: gray;
+   font-size: 10px;
+}
+
+.sec5 span{
+    background-color: grey;
+    width: 2px;
+    height: 10px;
+}
+
+#submit{
+    background-color:#3355d0; 
+    color: white; 
+    width: 100%; 
+    border: thin;
+    border-radius: 4px;
+}
+
+footer{
+    height:70px;
+    line-height: 70px;
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    background-color: #000000;
+}
